@@ -1,6 +1,6 @@
 import React from "react";
 import bgVideo from "./assets/video-bg.mp4";
-import Navbar from "./components/NavBar/navbar";
+import Navbar from "./components/NavBar/Navbar";
 import Hero from "./components/Hero/Hero";
 import HeroCard from "./components/HeroCard/HeroCard";
 import Footer from "./components/Footer/Footer";
